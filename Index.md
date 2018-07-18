@@ -24,13 +24,15 @@
 - *Teaching*
 
 ## Glossary
-Open access - free ("equitable"; "public scholarship") knowledge without licenses/paywalls (doesn't apply because journals?)
-Open humanities - 
-Accepted manuscript - 
-pre/post-print - 
-book processing charges -
-open vs digital -
-open -
-information social justice - 
-information ethics -
-digital publishing - 
+- Open access - free knowledge without licenses/paywalls
+- Open humanities - 
+- Accepted manuscript - 
+- pre/post-print - 
+- book processing charges -
+- open
+- digital 
+- information social justice
+- information ethics
+- digital publishing
+- open pedagogy
+- open educational resource

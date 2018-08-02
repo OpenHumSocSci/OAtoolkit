@@ -24,15 +24,33 @@
 - *Teaching*
 
 ## Glossary
-- Open access - free knowledge without licenses/paywalls
-- Open humanities - 
-- Accepted manuscript - 
-- pre/post-print - 
-- book processing charges -
-- open
+- Open access
+- Open humanities
 - digital 
 - information social justice
 - information ethics
 - digital publishing
 - open pedagogy
 - open educational resource
+- Open
+- Publics
+- Citizen
+- Communities
+- Labor
+- Open knowledge
+- Repository
+- Reproducibility
+- Process
+- Access
+- Barriers to access
+- Co-creation
+- Participation
+- Sharing
+- Ownership
+- Impact
+- Incentives
+- Credit
+- Scholarly communication
+- Commons
+- Local
+

@@ -8,3 +8,6 @@ A small group at OpenCon last year broke off during the do-a-thon to explore the
 * The idea was continued at the [FORCE11 Scholarly Communication Institute in San Diego](https://www.force11.org/fsci/2018/course-abstracts#MTWT6) (focused specifically on humanities)
 * Where will you take this project next?!
 
+## How can you participate?
+
+Check out the list of [Projects](https://github.com/OpenHumSocSci/OAtoolkit/blob/master/projects.md), tackle one, and share the result here! 
